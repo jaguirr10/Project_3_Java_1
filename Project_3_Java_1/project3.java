@@ -3,7 +3,7 @@
 //Student Name:      Juan Aguirre
 //Assignment#        Project 3 
 //Due Date:          9/21/2014
-//Purpose: Code a program to accept any two days in the format of month day and year, in addition also will calculate the difference of days between two dates.
+//Purpose: Code a program to accept any two days in the format of month day and year, in addition  will also calculate the difference of days between two dates.
 
 import java.io.*;
 import java.util.Scanner;
